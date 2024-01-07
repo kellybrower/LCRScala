@@ -1,0 +1,48 @@
+# gameLog
+gameLog.txt
+
+# Compiled class files
+
+\*.class
+
+# Log files
+
+\*.log
+
+# SBT specific
+
+lib_managed/
+src_managed/
+project/target/
+project/project/
+target/
+dist/\*
+
+# IntelliJ IDEA specific
+
+.idea/
+_.iml
+_.iws
+\*.ipr
+
+# VSCode specific
+
+.vscode/
+
+# Eclipse specific
+
+.bin/
+_.tmp
+_.bak
+_.swp
+_~.nib
+local.properties
+.loadpath
+.recommenders
+
+# OS specific
+
+.DS_Store
+Thumbs.db
+
+# LCRScala
